@@ -1,0 +1,452 @@
+[
+    {
+        "rut": "13155811-2",
+        "nombre": "adelardo linares pina",
+        "correo": "adelardo.linares.pina@hotmail.com",
+        "telefono": "933662161",
+        "rol": "Operador",
+        "empresa": "24566099-5 Industrial & Commercial Bank of China",
+        "fecha creacion": "4/28/21"
+    },
+    {
+        "rut": "9557194-8",
+        "nombre": "agueda boix luz",
+        "correo": "agueda.boix.luz@gmail.com",
+        "telefono": "918415720",
+        "rol": "Encargado",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "10/25/21"
+    },
+    {
+        "rut": "11099974-7",
+        "nombre": "aitor valentin angel",
+        "correo": "aitor.valentin.angel@gmail.com",
+        "telefono": "910402371",
+        "rol": "Gestor",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "4/7/21"
+    },
+    {
+        "rut": "22838951-k",
+        "nombre": "amada saenz barranco",
+        "correo": "amada.saenz.barranco@gmail.com",
+        "telefono": "956262188",
+        "rol": "Operador",
+        "empresa": "10882185-k SoftBank Group",
+        "fecha creacion": "1/18/21"
+    },
+    {
+        "rut": "7094964-4",
+        "nombre": "amado lucena solis",
+        "correo": "amado.lucena.solis@yahoo.es",
+        "telefono": "945384440",
+        "rol": "Encargado",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "8/18/21"
+    },
+    {
+        "rut": "14888047-6",
+        "nombre": "america brigida barragan",
+        "correo": "america.brigida.barragan@gmail.com",
+        "telefono": "918835102",
+        "rol": "Ejecutivo",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "4/23/21"
+    },
+    {
+        "rut": "11704098-4",
+        "nombre": "aranzazu lucena vizcaino",
+        "correo": "aranzazu.lucena.vizcaino@yahoo.es",
+        "telefono": "904350077",
+        "rol": "Ejecutivo",
+        "empresa": "6737982-9 Apple",
+        "fecha creacion": "1/27/21"
+    },
+    {
+        "rut": "12342781-5",
+        "nombre": "arcelia martinez rossello",
+        "correo": "arcelia.martinez.rossello@yahoo.es",
+        "telefono": "959167361",
+        "rol": "Ejecutivo",
+        "empresa": "12039291-3 Saudi Aramco",
+        "fecha creacion": "9/10/21"
+    },
+    {
+        "rut": "8783899-4",
+        "nombre": "aristides fortuny pozo",
+        "correo": "aristides.fortuny.pozo@hotmail.com",
+        "telefono": "929359280",
+        "rol": "Ejecutivo",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "3/18/21"
+    },
+    {
+        "rut": "15586230-0",
+        "nombre": "aurea riquelme gomis",
+        "correo": "aurea.riquelme.gomis@hotmail.com",
+        "telefono": "971854899",
+        "rol": "Gestor",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "4/5/21"
+    },
+    {
+        "rut": "20854705-4",
+        "nombre": "casandra palomares-folch andrade",
+        "correo": "casandra.palomares-folch.andrade@yahoo.es",
+        "telefono": "912269611",
+        "rol": "Encargado",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "1/26/21"
+    },
+    {
+        "rut": "23827119-3",
+        "nombre": "chus de palma",
+        "correo": "chus.de.palma@gmail.com",
+        "telefono": "973860118",
+        "rol": "Encargado",
+        "empresa": "6737982-9 Apple",
+        "fecha creacion": "6/11/21"
+    },
+    {
+        "rut": "20404014-1",
+        "nombre": "cleto agusti roman",
+        "correo": "cleto.agusti.roman@gmail.com",
+        "telefono": "961317886",
+        "rol": "Ejecutivo",
+        "empresa": "6409492-0 Facebook",
+        "fecha creacion": "4/16/21"
+    },
+    {
+        "rut": "6843510-2",
+        "nombre": "cosme feliu clemente",
+        "correo": "cosme.feliu.clemente@yahoo.es",
+        "telefono": "935619309",
+        "rol": "Encargado",
+        "empresa": "24566099-5 Industrial & Commercial Bank of China",
+        "fecha creacion": "5/3/21"
+    },
+    {
+        "rut": "5502325-5",
+        "nombre": "daniela torrents alarcon",
+        "correo": "daniela.torrents.alarcon@gmail.com",
+        "telefono": "966034177",
+        "rol": "Encargado",
+        "empresa": "24566099-5 Industrial & Commercial Bank of China",
+        "fecha creacion": "1/18/21"
+    },
+    {
+        "rut": "17264567-4",
+        "nombre": "emiliana corominas grande",
+        "correo": "emiliana.corominas.grande@gmail.com",
+        "telefono": "930812962",
+        "rol": "Ejecutivo",
+        "empresa": "6409492-0 Facebook",
+        "fecha creacion": "6/8/21"
+    },
+    {
+        "rut": "23288618-8",
+        "nombre": "faustino martin lumbreras",
+        "correo": "faustino.martin.lumbreras@hotmail.com",
+        "telefono": "946546715",
+        "rol": "Operador",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "9/4/21"
+    },
+    {
+        "rut": "24814475-0",
+        "nombre": "federico cuenca-hernandez palma",
+        "correo": "federico.cuenca-hernandez.palma@hotmail.com",
+        "telefono": "971435180",
+        "rol": "Encargado",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "8/23/21"
+    },
+    {
+        "rut": "22316059-k",
+        "nombre": "fito javi bayon",
+        "correo": "fito.javi.bayon@hotmail.com",
+        "telefono": "997007137",
+        "rol": "Ejecutivo",
+        "empresa": "6737982-9 Apple",
+        "fecha creacion": "10/10/21"
+    },
+    {
+        "rut": "24168165-3",
+        "nombre": "flavia mateo chacon",
+        "correo": "flavia.mateo.chacon@hotmail.com",
+        "telefono": "961293529",
+        "rol": "Gestor",
+        "empresa": "24566099-5 Industrial & Commercial Bank of China",
+        "fecha creacion": "7/20/21"
+    },
+    {
+        "rut": "19925685-8",
+        "nombre": "francisco javier ortuño",
+        "correo": "francisco.javier.ortuño@hotmail.com",
+        "telefono": "999208609",
+        "rol": "Operador",
+        "empresa": "12039291-3 Saudi Aramco",
+        "fecha creacion": "1/16/21"
+    },
+    {
+        "rut": "7649360-k",
+        "nombre": "francisco pazos-peña vidal",
+        "correo": "francisco.pazos-peña.vidal@gmail.com",
+        "telefono": "935318400",
+        "rol": "Encargado",
+        "empresa": "6409492-0 Facebook",
+        "fecha creacion": "2/24/21"
+    },
+    {
+        "rut": "11937133-3",
+        "nombre": "fulgencio peinado cisneros",
+        "correo": "fulgencio.peinado.cisneros@yahoo.es",
+        "telefono": "906224400",
+        "rol": "Operador",
+        "empresa": "12039291-3 Saudi Aramco",
+        "fecha creacion": "9/22/21"
+    },
+    {
+        "rut": "14314886-6",
+        "nombre": "hilario esteban miro",
+        "correo": "hilario.esteban.miro@yahoo.es",
+        "telefono": "973667023",
+        "rol": "Encargado",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "5/13/21"
+    },
+    {
+        "rut": "22007021-2",
+        "nombre": "iban villanueva gaya",
+        "correo": "iban.villanueva.gaya@hotmail.com",
+        "telefono": "908309835",
+        "rol": "Encargado",
+        "empresa": "12043514-0 China Construction Bank",
+        "fecha creacion": "9/29/21"
+    },
+    {
+        "rut": "7892094-7",
+        "nombre": "isidoro torrijos ayala",
+        "correo": "isidoro.torrijos.ayala@gmail.com",
+        "telefono": "923990021",
+        "rol": "Encargado",
+        "empresa": "12043514-0 China Construction Bank",
+        "fecha creacion": "9/8/21"
+    },
+    {
+        "rut": "7141511-2",
+        "nombre": "jacinto blasco calatayud",
+        "correo": "jacinto.blasco.calatayud@gmail.com",
+        "telefono": "914047806",
+        "rol": "Gestor",
+        "empresa": "12043514-0 China Construction Bank",
+        "fecha creacion": "7/26/21"
+    },
+    {
+        "rut": "21899480-6",
+        "nombre": "jafet del izaguirre",
+        "correo": "jafet.del.izaguirre@yahoo.es",
+        "telefono": "991664125",
+        "rol": "Encargado",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "2/22/21"
+    },
+    {
+        "rut": "21313021-8",
+        "nombre": "jesusa cortes-bejarano solis",
+        "correo": "jesusa.cortes-bejarano.solis@gmail.com",
+        "telefono": "919796172",
+        "rol": "Encargado",
+        "empresa": "11578774-8 Alphabet",
+        "fecha creacion": "5/17/21"
+    },
+    {
+        "rut": "22537935-1",
+        "nombre": "juan antonio cortes-vergara",
+        "correo": "juan.antonio.cortes-vergara@yahoo.es",
+        "telefono": "994018768",
+        "rol": "Gestor",
+        "empresa": "12039291-3 Saudi Aramco",
+        "fecha creacion": "7/26/21"
+    },
+    {
+        "rut": "23509369-3",
+        "nombre": "lola camara rossello",
+        "correo": "lola.camara.rossello@gmail.com",
+        "telefono": "937507655",
+        "rol": "Gestor",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "2/19/21"
+    },
+    {
+        "rut": "22615548-1",
+        "nombre": "marco alfonso rius",
+        "correo": "marco.alfonso.rius@gmail.com",
+        "telefono": "928582123",
+        "rol": "Gestor",
+        "empresa": "24566099-5 Industrial & Commercial Bank of China",
+        "fecha creacion": "6/14/21"
+    },
+    {
+        "rut": "10425328-8",
+        "nombre": "maria del camacho",
+        "correo": "maria.del.camacho@gmail.com",
+        "telefono": "981039662",
+        "rol": "Encargado",
+        "empresa": "6737982-9 Apple",
+        "fecha creacion": "3/22/21"
+    },
+    {
+        "rut": "7297115-9",
+        "nombre": "maria pilar alfaro",
+        "correo": "maria.pilar.alfaro@yahoo.es",
+        "telefono": "999871654",
+        "rol": "Ejecutivo",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "5/5/21"
+    },
+    {
+        "rut": "10299976-2",
+        "nombre": "maricruz escolano vidal",
+        "correo": "maricruz.escolano.vidal@gmail.com",
+        "telefono": "973042743",
+        "rol": "Encargado",
+        "empresa": "6409492-0 Facebook",
+        "fecha creacion": "5/8/21"
+    },
+    {
+        "rut": "11401919-4",
+        "nombre": "martin de olivera",
+        "correo": "martin.de.olivera@yahoo.es",
+        "telefono": "986328728",
+        "rol": "Gestor",
+        "empresa": "23690053-3 Berkshire Hathaway",
+        "fecha creacion": "4/16/21"
+    },
+    {
+        "rut": "6361027-5",
+        "nombre": "natalio losada artigas",
+        "correo": "natalio.losada.artigas@hotmail.com",
+        "telefono": "901470156",
+        "rol": "Encargado",
+        "empresa": "6737982-9 Apple",
+        "fecha creacion": "1/28/21"
+    },
+    {
+        "rut": "19451030-6",
+        "nombre": "olivia peñas guerrero",
+        "correo": "olivia.peñas.guerrero@yahoo.es",
+        "telefono": "986863993",
+        "rol": "Encargado",
+        "empresa": "11578774-8 Alphabet",
+        "fecha creacion": "3/29/21"
+    },
+    {
+        "rut": "7991718-4",
+        "nombre": "plinio jove barbera",
+        "correo": "plinio.jove.barbera@gmail.com",
+        "telefono": "914065787",
+        "rol": "Operador",
+        "empresa": "11578774-8 Alphabet",
+        "fecha creacion": "3/16/21"
+    },
+    {
+        "rut": "14349818-2",
+        "nombre": "ramiro mariño pozo",
+        "correo": "ramiro.mariño.pozo@yahoo.es",
+        "telefono": "938317294",
+        "rol": "Operador",
+        "empresa": "12043514-0 China Construction Bank",
+        "fecha creacion": "5/27/21"
+    },
+    {
+        "rut": "8668030-0",
+        "nombre": "rodrigo asenjo redondo",
+        "correo": "rodrigo.asenjo.redondo@yahoo.es",
+        "telefono": "995087591",
+        "rol": "Ejecutivo",
+        "empresa": "11578774-8 Alphabet",
+        "fecha creacion": "7/19/21"
+    },
+    {
+        "rut": "8234214-1",
+        "nombre": "rogelio español caceres",
+        "correo": "rogelio.español.caceres@hotmail.com",
+        "telefono": "920158346",
+        "rol": "Encargado",
+        "empresa": "11578774-8 Alphabet",
+        "fecha creacion": "8/1/21"
+    },
+    {
+        "rut": "11515373-0",
+        "nombre": "roque oliveras toledo",
+        "correo": "roque.oliveras.toledo@gmail.com",
+        "telefono": "900299120",
+        "rol": "Gestor",
+        "empresa": "10882185-k SoftBank Group",
+        "fecha creacion": "6/16/21"
+    },
+    {
+        "rut": "9501888-2",
+        "nombre": "ruth jordan pacheco",
+        "correo": "ruth.jordan.pacheco@gmail.com",
+        "telefono": "963589283",
+        "rol": "Ejecutivo",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "10/2/21"
+    },
+    {
+        "rut": "11546531-7",
+        "nombre": "salomon bernardo cobos",
+        "correo": "salomon.bernardo.cobos@gmail.com",
+        "telefono": "940332347",
+        "rol": "Encargado",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "1/25/21"
+    },
+    {
+        "rut": "18863125-8",
+        "nombre": "samuel serna jurado",
+        "correo": "samuel.serna.jurado@hotmail.com",
+        "telefono": "975465988",
+        "rol": "Ejecutivo",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "1/12/21"
+    },
+    {
+        "rut": "19545422-1",
+        "nombre": "severo murcia llorente",
+        "correo": "severo.murcia.llorente@hotmail.com",
+        "telefono": "904228262",
+        "rol": "Gestor",
+        "empresa": "10882185-k SoftBank Group",
+        "fecha creacion": "8/4/21"
+    },
+    {
+        "rut": "13656607-5",
+        "nombre": "tomasa criado castell",
+        "correo": "tomasa.criado.castell@yahoo.es",
+        "telefono": "972984726",
+        "rol": "Operador",
+        "empresa": "12043514-0 China Construction Bank",
+        "fecha creacion": "4/9/21"
+    },
+    {
+        "rut": "7347506-6",
+        "nombre": "viviana donaire busquets",
+        "correo": "viviana.donaire.busquets@gmail.com",
+        "telefono": "955799228",
+        "rol": "Operador",
+        "empresa": "14305598-1 Microsoft",
+        "fecha creacion": "7/4/21"
+    },
+    {
+        "rut": "11901999-0",
+        "nombre": "xiomara de coello",
+        "correo": "xiomara.de.coello@hotmail.com",
+        "telefono": "969996442",
+        "rol": "Gestor",
+        "empresa": "22724464-k Agricultural Bank of China",
+        "fecha creacion": "3/15/21"
+    }
+]
